@@ -1,0 +1,53 @@
+.login-title {
+    font-size: 1.125em
+}
+
+.login {
+    margin: auto;
+    width: 350px;
+    margin-top: 10%;
+    border: 1px groove rgba(180, 180, 180, 0.4);
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.login-inputs, .login-bottom {
+    margin-top: 20px;
+}
+
+/* main-screen */
+.main-screen {
+    margin: auto;
+    width: 350px;
+    margin-top: 10%;
+}
+
+.user {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.user-logo{
+  background-color: #ccc;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  margin: auto;
+}
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+    border: 1px groove rgba(180, 180, 180, 0.4);
+    border-radius: 4px;
+    margin-bottom: 4px;
+    padding: 10px 4px;
+}
+li:hover{
+  background-color: #efefef;
+}
+
+.item-subtitle {
+    font-size: 80%;
+}
